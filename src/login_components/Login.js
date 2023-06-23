@@ -49,7 +49,7 @@ export function Login() {
         <div className="row d-flex align-items-center justify-content-center h-100">
           <div className="col-md-8 col-lg-7 col-xl-6">
             <img
-              src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.svg"
+              src=""
               className="img-fluid login-img"
               alt="Phone image"
             />
