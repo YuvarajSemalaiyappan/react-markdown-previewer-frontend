@@ -49,7 +49,7 @@ export function Login() {
         <div className="row d-flex align-items-center justify-content-center h-100">
           <div className="col-md-8 col-lg-7 col-xl-6">
             <img
-              src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.markdownguide.org%2F&psig=AOvVaw3hNKBK5NRqVjx00-gAVViW&ust=1687606128146000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCzsPCk2f8CFQAAAAAdAAAAABAF"
+              src="https://www.markdownguide.org/assets/images/markdown-guide-og.jpg"
               className="img-fluid login-img"
               alt="Phone image"
             />

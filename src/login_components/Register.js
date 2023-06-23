@@ -199,7 +199,7 @@ function Register() {
                   </div>
                   <div class="col-md-10 col-lg-6 col-xl-7 d-flex align-items-center order-1 order-lg-2">
                     <img
-                      src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.westonschools.org%2Fhigh%2Fblog%2F2023%2F03%2F31%2Fstill-time-to-sign-up-for-the-self-defense-class%2Fsign-up-now-white-background-sticker-stamp-187174457%2F&psig=AOvVaw1wUJs1MVQlcDiYzIZOcM4A&ust=1687606225687000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjb3J6l2f8CFQAAAAAdAAAAABAJ"
+                      src="https://www.westonschools.org/high/wp-content/uploads/sites/4/2023/03/sign-up-now-white-background-sticker-stamp-187174457-705x697.jpg"
                       class="img-fluid"
                       alt="Sample image"
                     />
